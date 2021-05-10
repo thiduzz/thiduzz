@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/thiduzz/thiduzz/main/waving_hand.gif" width="30px">
 
-My name is Thiago Mello and I'm a tech savy full stack software developer. I'm from Curitiba - Brazil (and I am a Portuguese citizen as well), but I have been living for the past 5 years in Berlin - Germany. Currently I am working at [Studydrive GmbH][4] - prior to that I had my own business and also held development positions in corporate/banking sector. You can find me on [![Twitter][1.2]][1] or  [![LinkedIn][3.2]][3].
+My name is Thiago Mello and I'm a tech savy full stack software developer. I'm from Curitiba - Brazil (and I am a Portuguese citizen as well), but I have been living for the past 5 years in Berlin - Germany. Currently I am working at [Studydrive GmbH][4] - prior to that I had my own Digital Agency and also held development positions in corporate/banking sector. You can find me on [![Twitter][1.2]][1] or  [![LinkedIn][3.2]][3].
 
 ## ⚡ Technologies
 <!-- Badges from https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md -->
