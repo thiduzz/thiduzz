@@ -4,7 +4,7 @@ My name is Thiago Mello and I'm a tech savy full stack software developer. I'm f
 
 ## ⚡ Technologies
 <!-- Badges from https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md -->
-### Programming Languages and Frameworks
+### 🔥 Programming Languages and Frameworks
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
 ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
@@ -15,21 +15,22 @@ My name is Thiago Mello and I'm a tech savy full stack software developer. I'm f
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
 ![Serverless](https://img.shields.io/static/v1?style=for-the-badge&message=Serverless&color=FD5750&logo=Serverless&logoColor=FFFFFF&label=)
 
-### Data Engines and Storage
+### 📁 Data Engines and Storage
 ![Amazon DynamoDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label=)
 ![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
 ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![Elasticsearch](https://img.shields.io/static/v1?style=for-the-badge&message=Elasticsearch&color=005571&logo=Elasticsearch&logoColor=FFFFFF&label=)
 
-### DevOps and Environment
+### 👨‍💻 DevOps and Environment
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=NGINX&logoColor=FFFFFF&label=)
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
 ![Vagrant](https://img.shields.io/static/v1?style=for-the-badge&message=Vagrant&color=1563FF&logo=Vagrant&logoColor=FFFFFF&label=)
 
-### Tooling and Others...
+### ⚙️ Tooling and Others...
 
 ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
 ![Apache JMeter](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+JMeter&color=D22128&logo=Apache+JMeter&logoColor=FFFFFF&label=)
