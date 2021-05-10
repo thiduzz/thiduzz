@@ -39,6 +39,7 @@ My name is Thiago Mello and I'm a tech savy full stack software developer. I'm f
 ![JOSE Framework](https://img.shields.io/static/v1?style=for-the-badge&message=JOSE+Framework&color=000000&logo=JSON+Web+Tokens&logoColor=FFFFFF&label=)
 ![Let’s Encrypt](https://img.shields.io/static/v1?style=for-the-badge&message=Let%E2%80%99s+Encrypt&color=003A70&logo=Let%E2%80%99s+Encrypt&logoColor=FFFFFF&label=)
 ![Logstash](https://img.shields.io/static/v1?style=for-the-badge&message=Logstash&color=005571&logo=Logstash&logoColor=FFFFFF&label=)
+![OpenAPI Initiative](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAPI+Initiative&color=6BA539&logo=OpenAPI+Initiative&logoColor=FFFFFF&label=)
 ![OWASP](https://img.shields.io/static/v1?style=for-the-badge&message=OWASP&color=000000&logo=OWASP&logoColor=FFFFFF&label=)
 ![SonarCloud](https://img.shields.io/static/v1?style=for-the-badge&message=SonarCloud&color=F3702A&logo=SonarCloud&logoColor=FFFFFF&label=)
 
